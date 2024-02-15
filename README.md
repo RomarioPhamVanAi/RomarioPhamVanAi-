@@ -17,6 +17,5 @@ Hey there, I'm **Romario**, a civil engineering student with a penchant for codi
 
 ## Connect with Me
 
-- For a more formal discourse, find me on LinkedIn: https://www.linkedin.com/in/jean-rova-romario-rakotomalala-pham-van-ai-451770253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-
+- For a more formal discourse, find me on LinkedIn: https://www.linkedin.com/in/jean-rova-romario-rakotomalala-pham-van-ai-451770253
 Feel free to connect and explore the intersection of engineering, code, and automation with me! 
